@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
+    Mà sao em cứ đi nhầm đườngH
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: '  Mình yêu nhau em nhé ? ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/truonggiang2207/'
 }
